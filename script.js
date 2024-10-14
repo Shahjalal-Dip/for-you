@@ -13,7 +13,7 @@ async function Dip() {
     })
     let p3 = new Promise((resolve, reject) => {
         setTimeout(() => {
-            resolve("UserName found লাবন্য লতা")
+            resolve("UserName found Zannat Khan Yousufzai")
         }, 5000)
     })
     let p6 = new Promise((resolve, reject) => {
